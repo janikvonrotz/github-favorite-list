@@ -33,3 +33,11 @@ A collection of my favorite repos on github.
 # frontend design
 
 * [MaterialDesign](https://github.com/Templarian/MaterialDesign) - Design resources for Material Design.
+
+# application server
+
+* [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+
+# javascript backend dev
+
+* [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of fake data in Node.js and the browser
