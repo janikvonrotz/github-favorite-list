@@ -41,3 +41,7 @@ A collection of my favorite repos on github.
 # javascript backend dev
 
 * [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of fake data in Node.js and the browser
+
+# virtual private network
+
+* [Lantern](https://github.com/getlantern/lantern) - Open Internet for everyone. Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet.
