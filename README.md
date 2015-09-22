@@ -45,3 +45,7 @@ A collection of my favorite repos on github.
 # virtual private network
 
 * [Lantern](https://github.com/getlantern/lantern) - Open Internet for everyone. Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet.
+
+# smyphony
+
+* [OneupUploader](https://github.com/1up-lab/OneupUploaderBundle) - This Symfony2 bundle provides a server implementation for handling single and multiple file uploads with different providers.
