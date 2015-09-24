@@ -12,7 +12,7 @@ A collection of my favorite repos on github.
 
 # CoreOS
 
-*[coreos vagrant](https://github.com/coreos/coreos-vagrant/) - Minimal Vagrantfile for CoreOS
+*[CoreOS Vagrant](https://github.com/coreos/coreos-vagrant/) - Minimal Vagrantfile for CoreOS
 
 # graphics design
 
