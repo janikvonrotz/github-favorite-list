@@ -10,6 +10,10 @@ A collection of my favorite repos on github.
 
 * [xo](https://github.com/sindresorhus/xo) - JavaScript happiness style ❤️ XOXO
 
+# CoreOS
+
+*[coreos vagrant](https://github.com/coreos/coreos-vagrant/) - Minimal Vagrantfile for CoreOS
+
 # graphics design
 
 * [logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
