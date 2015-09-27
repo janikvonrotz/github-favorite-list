@@ -53,3 +53,7 @@ A collection of my favorite repos on github.
 # smyphony
 
 * [OneupUploader](https://github.com/1up-lab/OneupUploaderBundle) - This Symfony2 bundle provides a server implementation for handling single and multiple file uploads with different providers.
+
+# tools
+
+* [stop-server](https://github.com/typicode/stop-server) - Shut down your computer using nodejs and a phone.
