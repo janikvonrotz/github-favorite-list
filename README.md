@@ -10,6 +10,10 @@ A collection of my favorite repos on github.
 
 * [xo](https://github.com/sindresorhus/xo) - JavaScript happiness style ❤️ XOXO
 
+# javascript tools
+
+* [clipboard.js](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard. No Flash. Just 2kb
+
 # CoreOS
 
 * [CoreOS Vagrant](https://github.com/coreos/coreos-vagrant/) - Minimal Vagrantfile for CoreOS
