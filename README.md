@@ -1,22 +1,26 @@
 # github-favorite-list
 A collection of my favorite repos on github.
 
+# content management system
+
+* [relax](https://github.com/relax/relax) - Relax is a powerful new generation CMS on top of React and Node.js which aims for a better way of building websites.
+
 # source code editor
 
-* [atom](https://github.com/atom/atom) - The hackable text editor
-* [atom-linter-xo](https://github.com/sindresorhus/atom-linter-xo) - Linter for XO
+* [atom](https://github.com/atom/atom) - The hackable text editor.
+* [atom-linter-xo](https://github.com/sindresorhus/atom-linter-xo) - Linter for XO.
 
 # javascript styling
 
-* [xo](https://github.com/sindresorhus/xo) - JavaScript happiness style ❤️ XOXO
+* [xo](https://github.com/sindresorhus/xo) - JavaScript happiness style ❤️ XOXO.
 
 # javascript tools
 
-* [clipboard.js](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard. No Flash. Just 2kb
+* [clipboard.js](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard. No Flash. Just 2kb.
 
 # CoreOS
 
-* [CoreOS Vagrant](https://github.com/coreos/coreos-vagrant/) - Minimal Vagrantfile for CoreOS
+* [CoreOS Vagrant](https://github.com/coreos/coreos-vagrant/) - Minimal Vagrantfile for CoreOS.
 
 # graphics design
 
@@ -28,7 +32,7 @@ A collection of my favorite repos on github.
 
 # meteor.js
 
-* [unofficial-meteor-faq](https://github.com/oortcloud/unofficial-meteor-faq) - The unofficial Meteor FAQ
+* [unofficial-meteor-faq](https://github.com/oortcloud/unofficial-meteor-faq) - The unofficial Meteor FAQ.
 
 # markdown
 
@@ -44,11 +48,11 @@ A collection of my favorite repos on github.
 
 # application server
 
-* [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+* [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
 
 # javascript backend dev
 
-* [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of fake data in Node.js and the browser
+* [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of fake data in Node.js and the browser.
 
 # virtual private network
 
