@@ -1,6 +1,10 @@
 # github-favorite-list
 A collection of my favorite repos on github.
 
+# bot
+
+* [Hubot](https://github.com/github/hubot) - A customizable life embetterment robot.
+
 # content management system
 
 * [relax](https://github.com/relax/relax) - Relax is a powerful new generation CMS on top of React and Node.js which aims for a better way of building websites.
