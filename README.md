@@ -54,6 +54,10 @@ A collection of my favorite repos on github.
 
 * [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of fake data in Node.js and the browser.
 
+# messaging
+
+* [Mattermost](https://github.com/mattermost/platform) - Open source Slack-alternative in Golang and React.
+
 # virtual private network
 
 * [Lantern](https://github.com/getlantern/lantern) - Open Internet for everyone. Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet.
