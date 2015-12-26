@@ -5,6 +5,10 @@ A collection of my favorite repos on github.
 
 * [Hubot](https://github.com/github/hubot) - A customizable life embetterment robot.
 
+# business
+
+* [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
+
 # content management system
 
 * [relax](https://github.com/relax/relax) - Relax is a powerful new generation CMS on top of React and Node.js which aims for a better way of building websites.
