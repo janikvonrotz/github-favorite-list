@@ -1,6 +1,10 @@
 # github-favorite-list
 A collection of my favorite repos on github.
 
+# ad-block
+
+* [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
+
 # bot
 
 * [Hubot](https://github.com/github/hubot) - A customizable life embetterment robot.
