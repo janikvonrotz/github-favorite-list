@@ -29,6 +29,7 @@ A collection of my favorite repos on github.
 # javascript tools
 
 * [clipboard.js](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard. No Flash. Just 2kb.
+* [in-view.js](https://github.com/camwiegert/in-view) - Get notified when a DOM element enters or exits the viewport.
 
 # CoreOS
 
