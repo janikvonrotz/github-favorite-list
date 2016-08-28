@@ -1,14 +1,6 @@
 # github-favorite-list
 A collection of my favorite repos on github.
 
-# ad-block
-
-* [Anti-Adblock Killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
-
-# bot
-
-* [Hubot](https://github.com/github/hubot) - A customizable life embetterment robot.
-
 # business
 
 * [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
@@ -30,6 +22,7 @@ A collection of my favorite repos on github.
 
 * [clipboard.js](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard. No Flash. Just 2kb.
 * [in-view.js](https://github.com/camwiegert/in-view) - Get notified when a DOM element enters or exits the viewport.
+* [notie](https://github.com/jaredreich/notie) - a clean and simple notification, input, and selection suite for javascript, with no dependencies
 
 # CoreOS
 
